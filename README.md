@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66f4a207c45e253cb074d492?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66f4a207c45e253cb074d492?variant=dark&roadmaps=python)](https://roadmap.sh)
 <!--
 **jamestq/jamestq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
